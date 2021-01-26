@@ -16,7 +16,7 @@
 }
 
 header {
-    background-color: #aaaaaa;
+    background-color: #34322D;
     grid-area: header;
 }
 
@@ -35,6 +35,6 @@ section.image {
 }
 
 footer {
-    background-color: #aaaaaa;
+    background-color: #34322D;
     grid-area: footer;
 }
