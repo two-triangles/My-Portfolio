@@ -23,6 +23,8 @@ header {
 section.homepage-title {
     background-color: #098765;
     grid-area: title;
+    background-image: url(/img/computerdesk.jpg);
+    background-size: cover;
 }
 
 section.image {
