@@ -1,0 +1,1 @@
+This is a a site that will showcase my work, abilities and projects. Thank you 
