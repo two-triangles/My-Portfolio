@@ -28,6 +28,9 @@ section.homepage-title {
 section.image {
     background-color: #EEDCE1;
     grid-area: image;
+    background-image: url(/img/daniel-saleh.jpg);
+    background-size: cover;
+    background-position: center;
    
 }
 
