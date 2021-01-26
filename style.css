@@ -9,3 +9,19 @@
     width: 100vw;
     height: 100vh;
 }
+
+header {
+    background-color: #FFD859;
+}
+
+section.homepage-title {
+    background-color: #098765;
+}
+
+section.image {
+    background-color: #EEDCE1;
+}
+
+footer {
+    background-color: #B88546;
+}
