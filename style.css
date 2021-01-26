@@ -8,20 +8,30 @@
     display: grid;
     width: 100vw;
     height: 100vh;
+    grid-template-areas: "header header"
+                         "title image"
+                         "footer footer";
+    grid-template-rows: 100px 1fr 100px;
+    grid-template-columns:1fr 500px;                     
 }
 
 header {
-    background-color: #FFD859;
+    background-color: #aaaaaa;
+    grid-area: header;
 }
 
 section.homepage-title {
     background-color: #098765;
+    grid-area: title;
 }
 
 section.image {
     background-color: #EEDCE1;
+    grid-area: image;
+   
 }
 
 footer {
-    background-color: #B88546;
+    background-color: #aaaaaa;
+    grid-area: footer;
 }
